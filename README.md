@@ -30,7 +30,6 @@ This project demonstrates practical implementation of modern Data Engineering wo
 | PyMongo            | MongoDB connection            |
 | Pandas             | Exploratory data analysis     |
 | Jupyter Notebook   | Data exploration & validation |
-| CSV                | Raw dataset source            |
 
 ---
 
